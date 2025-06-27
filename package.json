@@ -1,0 +1,31 @@
+{
+  "name": "githubcli",
+  "version": "1.0.0",
+  "description": "My first Backend Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anashussain17/githubCLI.git"
+  },
+  "keywords": [
+    "github",
+    "node.js",
+    "js"
+  ],
+  "author": "Anas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anashussain17/githubCLI/issues"
+  },
+  "homepage": "https://github.com/Anashussain17/githubCLI#readme",
+  "dependencies": {
+    "boxen": "^8.0.1",
+    "chalk": "^5.4.1",
+    "figlet": "^1.8.1",
+    "readline-sync": "^1.4.10"
+  },
+  "type": "module"
+}
